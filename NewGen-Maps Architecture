@@ -1,0 +1,69 @@
+                                      +--------------------+
+                                      |     Frontend       |
+                                      |  (React Native /   |
+                                      |      Flutter)      |
+                                      +--------------------+
+                                              |
+                                              |
+                                              v
+                                      +--------------------+
+                                      |      Backend       |
+                                      | (Django / Express) |
+                                      +--------------------+
+                                              |
+                                              |
+                                              v
+                                      +--------------------+
+                                      |     Database       |
+                                      | (PostgreSQL /      |
+                                      |    Firebase)       |
+                                      +--------------------+
+                                              |
+                                              |
+                                              v
+                                      +--------------------+
+                                      |    Mapping APIs    |
+                                      | (Google Maps /     |
+                                      |  Mapbox / Open-    |
+                                      |  StreetMap)        |
+                                      +--------------------+
+                                              |
+                                              |
+                                              v
+                                      +--------------------+
+                                      | Machine Learning   |
+                                      |      Module        |
+                                      |  (TensorFlow /     |
+                                      | Scikit-learn)      |
+                                      +--------------------+
+                                              |
+                                              |
+                                              v
+                                      +--------------------+
+                                      | Real-Time Updates  |
+                                      |      Module        |
+                                      |  (WebSocket /      |
+                                      |  Socket.io)        |
+                                      +--------------------+
+                                              |
+                                              |
+                                              v
+                                      +--------------------+
+                                      | Offline Function-  |
+                                      |    ality (AR-      |
+                                      |    Based)          |
+                                      +--------------------+
+                                              |
+                                              |
+                                              v
+                                      +--------------------+
+                                      | Battery Optimization|
+                                      |       Module        |
+                                      +--------------------+
+                                              |
+                                              |
+                                              v
+                                      +--------------------+
+                                      | Emergency Route    |
+                                      |      Module        |
+                                      +--------------------+
