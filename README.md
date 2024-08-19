@@ -4,7 +4,7 @@ Here’s a cool and comprehensive README template for your GitHub project, compl
 
 # 🚀 Custom Navigation App
 
-![Map GIF](https://media.giphy.com/media/3o7aD1zsAwnkz74T0k/giphy.gif)
+![Map GIF](https://giphy.com/gifs/europeanspaceagency-esagif-earth-from-space-earthfromspaceesa-fXEEwiYIMVHF7xNMDy)
 
 ## 📍 Project Description
 Welcome to the **Custom Navigation App**! This is not your ordinary map app—it's designed to give you the ultimate control over your journey. Whether you're looking for the fastest route or the shortest distance, this app has you covered. Plus, with features like real-time crowd data, emergency routing, and offline AR navigation, it’s a must-have for any traveler.
@@ -19,7 +19,7 @@ Welcome to the **Custom Navigation App**! This is not your ordinary map app—it
 - **Offline AR Mode:** Navigate confidently, even without internet access.
 - **Group Travel Collaboration:** Plan trips with friends in real-time.
 
-![Travel GIF](https://media.giphy.com/media/xUOxf2g69GIewsc66w/giphy.gif)
+![Travel GIF](https://giphy.com/gifs/tcm-steven-spielberg-1977-close-encounters-of-the-third-kind-YoWYbUDeJK6Telrvzs)
 
 ## 🛠️ Tech Stack & Libraries
 - **Frontend:**
@@ -52,7 +52,7 @@ Welcome to the **Custom Navigation App**! This is not your ordinary map app—it
 ## 🔍 Overview
 This app is designed to solve the problems of inflexible routing and lack of real-time personalization in existing navigation tools. Whether you're planning a road trip, navigating a new city, or coordinating with a group, this app gives you all the tools you need to get there your way.
 
-![Navigation GIF](https://media.giphy.com/media/3o6Yg4Sm5HRfpbaKYo/giphy.gif)
+![Navigation GIF](https://giphy.com/gifs/net-worlds-countrytocountry-cptqDRm6AJRte)
 
 ## 🛣️ Problem It Solves
 Traditional navigation apps often lack flexibility and personalization, making them less effective for complex journeys or those with specific needs. This app solves that by offering:
@@ -89,7 +89,7 @@ We welcome contributions! Feel free to open issues or submit pull requests. Plea
 
 Happy navigating! 🗺️✨
 
-![End GIF](https://media.giphy.com/media/3o6ZsU1Y9h3D8t8vyo/giphy.gif)
+![End GIF](https://giphy.com/gifs/oc-basins-watershedsriver-tkJsL5AIIsg7K)
 
 ---
 
