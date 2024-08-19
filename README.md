@@ -1,5 +1,3 @@
-Here’s a cool and comprehensive README template for your GitHub project, complete with emojis, stickers, and everything else to make it stand out!
-
 ---
 
 # 🚀 Custom Navigation App
