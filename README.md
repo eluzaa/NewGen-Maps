@@ -19,7 +19,7 @@ Welcome to the **Custom Navigation App**! This is not your ordinary map app—it
 - **Offline AR Mode:** Navigate confidently, even without internet access.
 - **Group Travel Collaboration:** Plan trips with friends in real-time.
 
-![Travel GIF](https://media.giphy.com/media/xUOxf2g69GIewsc66w/giphy.gif)
+![Travel GIF](https://media3.giphy.com/media/Tg6xzp1VJ4Kl9SIa3l/200.webp?cid=790b7611nxht64iejk2toorbvn5urgw2deksctr5msh0hd45&ep=v1_gifs_search&rid=200.webp&ct=g)
 
 ## 🛠️ Tech Stack & Libraries
 - **Frontend:**
@@ -52,7 +52,7 @@ Welcome to the **Custom Navigation App**! This is not your ordinary map app—it
 ## 🔍 Overview
 This app is designed to solve the problems of inflexible routing and lack of real-time personalization in existing navigation tools. Whether you're planning a road trip, navigating a new city, or coordinating with a group, this app gives you all the tools you need to get there your way.
 
-![Navigation GIF](https://media.giphy.com/media/3o6Yg4Sm5HRfpbaKYo/giphy.gif)
+![Navigation GIF](https://media0.giphy.com/media/YoWYbUDeJK6Telrvzs/100.webp?cid=790b7611nxht64iejk2toorbvn5urgw2deksctr5msh0hd45&ep=v1_gifs_search&rid=100.webp&ct=g)
 
 ## 🛣️ Problem It Solves
 Traditional navigation apps often lack flexibility and personalization, making them less effective for complex journeys or those with specific needs. This app solves that by offering:
@@ -89,7 +89,7 @@ We welcome contributions! Feel free to open issues or submit pull requests. Plea
 
 Happy navigating! 🗺️✨
 
-![End GIF](https://media.giphy.com/media/3o6ZsU1Y9h3D8t8vyo/giphy.gif)
+![End GIF](https://media4.giphy.com/media/tkJsL5AIIsg7K/giphy.webp?cid=790b7611nxht64iejk2toorbvn5urgw2deksctr5msh0hd45&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
 ---
 
