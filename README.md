@@ -1,6 +1,6 @@
 ---
 
-# 🚀 Custom Navigation App
+# 🚀 Navigation App - NewGen Maps
 ![Map GIF](https://media2.giphy.com/media/ZcXE5I7qHqab9n0sa1/200.webp?cid=790b7611nxht64iejk2toorbvn5urgw2deksctr5msh0hd45&ep=v1_gifs_search&rid=200.webp&ct=g)
 
 ## 📍 Project Description
