@@ -89,5 +89,3 @@ Happy navigating! 🗺️✨
 ![End GIF](https://media4.giphy.com/media/tkJsL5AIIsg7K/giphy.webp?cid=790b7611nxht64iejk2toorbvn5urgw2deksctr5msh0hd45&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
 ---
-
-This README template is packed with essential information, engaging visuals, and a clear layout, making it perfect for showcasing your project on GitHub.
