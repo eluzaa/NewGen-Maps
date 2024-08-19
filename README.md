@@ -3,9 +3,8 @@ Here’s a cool and comprehensive README template for your GitHub project, compl
 ---
 
 # 🚀 Custom Navigation App
-<p align=center>
 ![Map GIF](https://media2.giphy.com/media/ZcXE5I7qHqab9n0sa1/200.webp?cid=790b7611nxht64iejk2toorbvn5urgw2deksctr5msh0hd45&ep=v1_gifs_search&rid=200.webp&ct=g)
-</p>
+
 ## 📍 Project Description
 Welcome to the **Custom Navigation App**! This is not your ordinary map app—it's designed to give you the ultimate control over your journey. Whether you're looking for the fastest route or the shortest distance, this app has you covered. Plus, with features like real-time crowd data, emergency routing, and offline AR navigation, it’s a must-have for any traveler.
 
